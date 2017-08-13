@@ -1812,7 +1812,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4e6137;
+  background: #e0ffd0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2983,4 +2983,8 @@ pre .javascript .function {
 }
 .footer {
   bottom: auto;
+}
+body {
+  background: url("../uploads/Starry Night.jpg");
+  background-attachment: fixed;
 }
